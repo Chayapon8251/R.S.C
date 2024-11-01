@@ -1,6 +1,7 @@
 # R.S.C
 Physical Computing Project 2024 - IT KMITL Project
-Project นี้เป็นส่วนหนึ่งในรายวิชา PHYSICAL COMPUTING 06016409 ภาคเรียนที่ 1 ปีการศึกษา 2566 ของคณะเทคโนโลยีสารสนเทศ สาขาเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
+
+# Project นี้เป็นส่วนหนึ่งในรายวิชา PHYSICAL COMPUTING 06016409 ภาคเรียนที่ 1 ปีการศึกษา 2566 ของคณะเทคโนโลยีสารสนเทศ สาขาเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
 
 ## บทคัดย่อ
 Project นี้เป็นการบูรณาการในการใช้งาน Microcontroller ในรายวิชา PHYSICAL COMPUTING โดยเป็นการทำเป็น Hardware สำหรับระบบตรวจจับความสว่างของแสง โดยหากปริมาณแสงสว่างที่ตัวเซ็นเซอร์ตรวจพบมีความสว่างมากเกินกว่าค่าที่กำหนดจะส่งผลให้สัญญาณแจ้งเตือนปริมาณแสงเกินกำหนดดังขึ้น และสามารถหยุดการทำงานของสัญญาณแจ้งเตือนได้โดยการใส่รหัสผ่านที่ถูกต้องลงบนอุปกรณ์ Keypad โดยจะมีอุปกรณ์ที่ใช้งานใน Project ดังกล่าวทั้งหมดดังนี้
@@ -11,18 +12,6 @@ Project นี้เป็นการบูรณาการในการใ
 
 * #### Breadboard
 > ![Breadboardd Screenshot](https://github.com/pprwf/PhyCom-Project__LightIntensityAlarm__/blob/main/Picture/Breadboard.png "Breadboard")
-
-* #### Buzzer       
-> ![Buzzer Screenshot](https://github.com/pprwf/PhyCom-Project__LightIntensityAlarm__/blob/main/Picture/Buzzer.png "Buzzer")
-
-* #### Push Button
-> ![Push Button Screenshot](https://github.com/pprwf/PhyCom-Project__LightIntensityAlarm__/blob/main/Picture/Red%20Push%20Button.png "Button")
-
-* #### Light Sensor
-> ![(Seeed Studio) Grove - Light Sensor Screenshot](https://github.com/pprwf/PhyCom-Project__LightIntensityAlarm__/blob/main/Picture/Grove%20-%20Light%20Sensor.png "Light Sensor")
-
-* #### Laser Transmitter
-> ![(ky-008) Laser Transmitter Screenshot](https://github.com/pprwf/PhyCom-Project__LightIntensityAlarm__/blob/main/Picture/Laser%20Transmitter.png "Laser")
 
 
 ## VDO สาธิตการใช้งานโปรเจค
@@ -61,7 +50,7 @@ Project นี้เป็นการบูรณาการในการใ
 ## สมาชิกผู้จัดทำ
 | ชื่อ - นามสกุล | รหัสนักศึกษา |
 | -------- | ------- |
-| นายธนาวัลย์ แช่มเสถียร | 65070099 |
-| นายปรเมษฐ์ เชื้อทอง | 65070130 |
-| นายพีรวิชญ์ พิชญธาดาพงศ์ | 65070162 |
-| นายภาคิน จันทร์จำลอง | 65070174 |
+| นายกาจพล สุชีวะกุล | 6607013 |
+| นาย ชยพล ดอนปัต | 6607039 |
+| นาย ชลัฐพล แก้วอ่อน | 66070041 |
+| นาย นัตชัย สุธรรม  | 66070102 |
